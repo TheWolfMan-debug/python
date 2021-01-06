@@ -1,0 +1,1 @@
+[{'name': 'lei', 'gender': 'boy', 'tel': '342342'}, {'name': 'ding', 'gender': 'girl', 'tel': '4234'}, {'name': 'wang', 'gender': 'boy', 'tel': '43543'}, {'name': 'li', 'gender': 'girl', 'tel': '480324'}]

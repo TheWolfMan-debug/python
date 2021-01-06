@@ -1,0 +1,16 @@
+菜单快捷键：
+s	--------	Play
+n	--------	Play new game
+q	--------	Quit the game
+h	--------	Help
+操作快捷键：
+p	--------	Pause
+i	--------	Invincible
+o	--------	Music on or music off
+space	--------	Firing bullets
+up arrow	--------	Move up
+down arrow	--------	Move down
+left arrow	--------	Move left
+right arrow	--------	Move right
+
+Start with a random fighter, please fight with the monsters!!!
